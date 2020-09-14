@@ -1,0 +1,33 @@
+.navbar{
+	background-color: #424038;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+.navbar th{
+	margin: 30px;
+	border-style: solid;
+	border-color: #c7c3b3;
+	color: #c7c3b3;
+	font-size: large;
+}
+
+.Intro{
+	background-image: url('backgroundpaper.png');
+	padding: 10px;
+	border-radius: 20px;
+}
+
+.Intro ul{
+	padding-left: 20%;
+}
+
+.Intro li{
+	margin-bottom: 5px;
+}
+
+.profile{
+	width: 10%;
+	float: right;
+	padding-right: 50%;
+}
