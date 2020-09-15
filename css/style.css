@@ -1,15 +1,20 @@
+body{
+	background-color: #1f1100;
+}
+
+
 .navbar{
 	background-color: #424038;
 	margin-left: 25%;
 	margin-right: 25%;
+	color: white;
+	font-style: bold;
+	border-radius: 20px;
 }
-
-.navbar th{
-	margin: 30px;
-	border-style: solid;
-	border-color: #c7c3b3;
-	color: #c7c3b3;
-	font-size: large;
+.navbar a{
+color: white;
+	font-style: bold;
+	border-radius: 20px;
 }
 
 .Intro{
@@ -18,12 +23,24 @@
 	border-radius: 20px;
 }
 
-.Intro ul{
+.glitch{
+	background-color: black;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+ ul{
 	padding-left: 20%;
 }
 
-.Intro li{
+ li{
 	margin-bottom: 5px;
+	line-height: 145%;
+}
+
+.glitch li{
+	color: white;
+	font-family: "Times New Roman", Times, serif;
 }
 
 .profile{
