@@ -38,6 +38,12 @@ color: white;
 	line-height: 145%;
 }
 
+p{
+	margin-bottom: 5px;
+	line-height: 145%;
+	padding-left: 17%;
+}
+
 .glitch li{
 	color: white;
 	font-family: "Times New Roman", Times, serif;
